@@ -1,12 +1,10 @@
-# Google-subdomain-enumeration
+- # Google-subdomain-enumeration
 
+
+# Description 
 *The above-mentioned Google subdomains have been passively enumerated and stored in a constantly updated database. The goal of this project is to assist security professionals, bug bounty hunters, and other interested parties in learning about and practicing attack surface identification and reconnaissance in a responsible way.*
 
 *An extensive list of Google subdomains obtained using sophisticated reconnaissance tools and passive enumeration methods. This database was created with the aim of assisting security professionals and bug bounty hunters in conducting research and gaining knowledge of asset discovery and reconnaissance techniques.*
-
-# Google Subdomains List
-
-*This repository includes a compiled list of subdomains related to Google entities acquired via passive reconnaissance and public resources.*
 
 # Google Subdomains List
 

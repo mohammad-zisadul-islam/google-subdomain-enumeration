@@ -1,10 +1,33 @@
  # Google-subdomain-enumeration
 
 
-# Description 
-*The above-mentioned Google subdomains have been passively enumerated and stored in a constantly updated database. The goal of this project is to assist security professionals, bug bounty hunters, and other interested parties in learning about and practicing attack surface identification and reconnaissance in a responsible way.*
+# Project Description: Subdomain Enumeration and Analysis
 
-*An extensive list of Google subdomains obtained using sophisticated reconnaissance tools and passive enumeration methods. This database was created with the aim of assisting security professionals and bug bounty hunters in conducting research and gaining knowledge of asset discovery and reconnaissance techniques.*
+*This project aims at the passive enumeration and aggregation of the subdomains belonging to Google in a continuously growing database using the latest reconnaissance tools and techniques.*
+
+*The primary purpose of the project is to provide guidance to cybersecurity professionals and bug bounty hackers in identifying the attack surface and enhancing their reconnaissance techniques responsibly.
+
+Dataset*
+
+A large-scale and comprehensive dataset of subdomains associated with Google has been compiled for this project and will be made available as part of the submission. The dataset will consist of the latest information about the subdomains, gathered using sophisticated reconnaissance and passive discovery tools.  
+
+# Python Script
+
+ In addition to the above, an automated Python script has been written that allows for efficient analysis of the domains and subdomains.  
+
+# Features
+
+Accepts a text document containing domains and subdomains  
+Performs the operations within the working directory itself  
+Can be run directly using the CMD command  
+
+# Procedure
+
+Simply copy the Python script and the domains list text document in the same folder and execute the program using the CMD command.
+Key Features  
+Creates an organized report in the form of a TXT document  
+Generates detailed reports in PDF form  
+Classifies domains and subdomains into up (active) and down (inactive) categories  
 
 # Google Subdomains List
 

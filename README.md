@@ -7,21 +7,21 @@
 
 *The primary purpose of the project is to provide guidance to cybersecurity professionals and bug bounty hackers in identifying the attack surface and enhancing their reconnaissance techniques responsibly.
 
-# Dataset
+- Dataset
 
 A large-scale and comprehensive dataset of subdomains associated with Google has been compiled for this project and will be made available as part of the submission. The dataset will consist of the latest information about the subdomains, gathered using sophisticated reconnaissance and passive discovery tools.  
 
-# Python Script
+- Python Script
 
  In addition to the above, an automated Python script has been written that allows for efficient analysis of the domains and subdomains.  
 
-# Features
+- Features
 
 Accepts a text document containing domains and subdomains  
 Performs the operations within the working directory itself  
 Can be run directly using the CMD command  
 
-# Procedure
+- Procedure
 
 Simply copy the Python script and the domains list text document in the same folder and execute the program using the CMD command.
 Key Features  

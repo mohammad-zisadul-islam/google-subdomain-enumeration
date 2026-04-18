@@ -17,9 +17,9 @@ A large-scale and comprehensive dataset of subdomains associated with Google has
 
 - Features
 
-Accepts a text document containing domains and subdomains  
-Performs the operations within the working directory itself  
-Can be run directly using the CMD command  
+- Accepts a text document containing domains and subdomains  
+- Performs the operations within the working directory itself  
+- Can be run directly using the CMD command  
 
 - Procedure
 
